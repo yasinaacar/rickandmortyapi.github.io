@@ -1,0 +1,145 @@
+body{
+    background-image: url(img/r&mhome.jpg);
+    background-position: top;
+    background-size: cover;
+    
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+    display: none;
+}
+
+#logo:hover{
+    opacity: 0.75;
+}
+
+.input-group{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.in-middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-group input{
+    border: 0;
+    border-bottom:  #01b4c6 3px solid;
+    outline: 0;
+    background-color: transparent;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+::placeholder{
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.search-button{
+    border: 0;
+    outline: 0;
+    border-bottom:  #01b4c6 3px solid;
+    background-color: transparent;
+    color: #fff;
+    margin-left: -2px;
+}
+
+.search-button:hover{
+    color: #97ce4c;
+}
+
+
+.buttons{
+    padding: 14px;
+    background-color: #bee5fd !important;
+    height: max-content !important;
+    border-radius: 10px;
+}
+
+.buttons h5{
+    
+    margin-top: -10px;
+    margin-bottom: 12px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.buttons button{
+    margin: 0 10px 10px 0;
+    border: #01b4c6 2px solid;
+    background-color: #01b4c6;
+    color: #fff;
+    border-radius: 8px;
+}
+
+
+.buttons button:hover{
+    background-color: #97ce4c;
+}
+
+.filter{
+    margin-bottom: 20px;
+}
+
+
+.character-name{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.card{
+    border: #01b4c6 2px solid !important;
+    width: 20rem;
+    margin: 15px;
+}
+
+.col-lg-3{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    
+    border: 0 !important;
+}
+
+
+.statues{
+
+    margin: 6px 14px;
+    background-color: #0BDA51;
+    padding: 5px 30px;
+    border-radius: 7px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+    font-style: italic;
+    color: #fff;
+}
+
+.list-group-item{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    
+}
+
+.list-group-item span{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-left: 9px;
+}
+
+
+@media screen and (max-width: 1247px) {
+    body {
+      background-image: url(img/result-bg.jpg);
+    }
+
+  }
