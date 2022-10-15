@@ -5,7 +5,7 @@ Javascript' te Api'leri kullanarak oluşturduğum Rick And Morty dizisindeki kar
 Bu Uygulama Ne İşe Yarar?
   
     Bu uygulama sayesinde Rick And Morty dizisindeki karakterlerin aşağıdaki belirtilen bilgilerine erişebilirsiniz
-     --> KArakter Resmi
+     --> Karakter Resmi
      --> Karakter İsmi
      --> Karakterin durumu (canlı/ölü/bilinmeyen)
      --> Türünü (insan/robot/uzaylı)
@@ -17,7 +17,8 @@ Bu Uygulama Ne İşe Yarar?
   Uygulamanın Kullanımı:
   
     Hakkında bilgi edinmek istediğiniz karakterin adını arama çubuğuna girdikten sonra arama butonununa tıklayarak istediğiniz bilgiye erişebilirsiniz
-    Bilgi edinmek istediğiniz karakterin adını tam olarak hatırlayamıyorsanız, karakterin adında geçen hatırladığınız bir harfi girerek arama yapabilirsiniz (Örnek: 'E' harfini girerek arama yaparsanız adında 'e' harfi bulunan tüm karakterler listelenecektir)
+    Bilgi edinmek istediğiniz karakterin adını tam olarak hatırlayamıyorsanız, karakterin adında geçen hatırladığınız bir harfi girerek arama yapabilirsiniz
+        (Örnek: 'E' harfini girerek arama yaparsanız adında 'e' harfi bulunan tüm karakterler listelenecektir)
     Filtreler kımını kullanarak şu anda hayatta olan, ölmüş olan ve durumu bilinmeyen karakterlerin hepsini görebilirsiniz
     Arama yaptıktan sonra sayfayı yenileyerek ya da listenin başında bulunan Rick ve Morty logosuna dokunarak arama çubuğuna dönebilirsiniz
     
